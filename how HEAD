@@ -1,0 +1,23 @@
+[33mcommit bdd89ebae4c7844ae14f1b2b447abce4f2171ba3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Yashwanth-Chary-P <p.yashwanthchary@gmail.com>
+Date:   Wed Aug 27 23:43:42 2025 +0530
+
+    React-redux Todo List
+
+.gitignore
+README.md
+eslint.config.js
+index.html
+package-lock.json
+package.json
+public/vite.svg
+src/App.css
+src/App.jsx
+src/app/store.js
+src/assets/react.svg
+src/components/AddTodo.jsx
+src/components/Todos.jsx
+src/features/todo/todoSlice.js
+src/index.css
+src/main.jsx
+vite.config.js
