@@ -1,4 +1,4 @@
-g# Redux Toolkit Todo App
+# Redux Toolkit Todo App
 
 A modern, responsive todo application built with React, Redux Toolkit, and Tailwind CSS. This project demonstrates state management using Redux Toolkit with a beautiful, glassmorphism-inspired UI.
 
