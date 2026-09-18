@@ -83,10 +83,6 @@ src/
 2. **Removing Tasks**: Click the trash icon next to any task to delete it
 3. **Viewing Tasks**: All your tasks are displayed in a clean, organized list
 
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
 ---
 
 Built with ❤️ using React and Redux Toolkit
